@@ -1,0 +1,9 @@
+*{
+    margin:0;
+}
+.header-class{
+    color: white;
+    height:35px;
+    background-color: gray;
+    justify-content: center;    
+}
